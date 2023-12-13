@@ -1,2 +1,2 @@
 Simple Shell Peoject
-by Promise Chime
+by Promise Chime & Innocent Azie
